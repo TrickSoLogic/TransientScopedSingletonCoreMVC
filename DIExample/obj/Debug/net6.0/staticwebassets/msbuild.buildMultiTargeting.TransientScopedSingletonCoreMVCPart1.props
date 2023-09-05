@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TransientScopedSingletonCoreMVCPart1.props" />
+</Project>

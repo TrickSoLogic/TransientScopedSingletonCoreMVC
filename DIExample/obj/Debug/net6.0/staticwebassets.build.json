@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bA67L5BR50sWwPYU0alJRKzbAfAGuW4Oy4INbsPS8fk=",
+  "Source": "TransientScopedSingletonCoreMVCPart1",
+  "BasePath": "_content/TransientScopedSingletonCoreMVCPart1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TransientScopedSingletonCoreMVCPart1\\wwwroot",
+      "Source": "TransientScopedSingletonCoreMVCPart1",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\06. Transient, Scoped, Singleton - Part 1\\DIExample\\wwwroot\\",
+      "BasePath": "_content/TransientScopedSingletonCoreMVCPart1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\06. Transient, Scoped, Singleton - Part 1\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "TransientScopedSingletonCoreMVCPart1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\06. Transient, Scoped, Singleton - Part 1\\DIExample\\wwwroot\\",
+      "BasePath": "_content/TransientScopedSingletonCoreMVCPart1",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
